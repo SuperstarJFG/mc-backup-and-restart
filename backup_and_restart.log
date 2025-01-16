@@ -1,0 +1,35 @@
+Found tmux session '0'
+warn
+stop
+zip
+delete old backup
+start
+/home/opc/backup_and_restart.sh: line 33: unexpected EOF while looking for matching `"'
+/home/opc/backup_and_restart.sh: line 36: syntax error: unexpected end of file
+Found tmux session '0'
+Announcing to server
+Stopping server
+Backing up world to world-2025-01-15.zip
+Deleting backup from 2025-01-13
+Starting server
+Found tmux session '0'
+Announcing to server
+Stopping server
+Backing up world to world-2025-01-16.zip
+Deleting backup from 2025-01-14
+Starting server
+\n2025-01-16
+Found tmux session '0'
+Announcing to server
+Stopping server
+Backing up world to world-2025-01-16.zip
+Deleting backup from 2025-01-14
+Starting server
+
+2025-01-16
+Found tmux session '0'
+Announcing to server
+Stopping server
+Backing up world to world-2025-01-16.zip
+Deleting backup from 2025-01-14
+Starting server
